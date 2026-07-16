@@ -4,9 +4,11 @@
 This web application is a sophisticated Large-Scale Search Ranking & Retrieval System. It incorporates multiple ML-driven ranking algorithms such as BM25, LambdaRank, and a Neural Reranker to provide highly relevant and personalized search results.
 
 ---
-<img width="1570" height="766" alt="Screenshot 2025-11-22 160809" src="https://github.com/user-attachments/assets/c0c02c8e-2119-4424-9f12-ec6c8e74236d" />
 
-<img width="1466" height="885" alt="Screenshot 2025-11-22 160834" src="https://github.com/user-attachments/assets/ab347e1f-0998-4e61-aac7-80f4f43ae728" />
+<img width="1609" height="718" alt="Screenshot 2026-07-16 210515" src="https://github.com/user-attachments/assets/ebab0fee-9b74-4753-9690-6c37928bfdd2" />
+<img width="945" height="828" alt="Screenshot 2026-07-16 210529" src="https://github.com/user-attachments/assets/34270bee-78b7-418b-bb00-89553dc906fd" />
+
+
 
 ---
 
