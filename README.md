@@ -5,8 +5,8 @@ This web application is a sophisticated Large-Scale Search Ranking & Retrieval S
 
 ---
 
-<img width="1609" height="718" alt="Screenshot 2026-07-16 210515" src="https://github.com/user-attachments/assets/ebab0fee-9b74-4753-9690-6c37928bfdd2" />
-<img width="945" height="828" alt="Screenshot 2026-07-16 210529" src="https://github.com/user-attachments/assets/34270bee-78b7-418b-bb00-89553dc906fd" />
+<img width="1609" height="718" alt="Screenshot 2026-07-16 210515" src="assets/1.png" />
+<img width="945" height="828" alt="Screenshot 2026-07-16 210529" src="assets/2.png" />
 
 
 
